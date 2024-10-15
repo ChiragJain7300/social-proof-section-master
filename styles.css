@@ -41,6 +41,7 @@ main {
   margin-bottom: 20px;
   font-weight: 700;
   text-align: left;
+  color: var(--very-dark-magenta);
 }
 .leftText {
   color: var(--dark-grayish-magenta);
@@ -129,6 +130,7 @@ main {
 @media only screen and (max-width: 920px) {
   .upper-left h1 {
     font-size: 4vw;
+    text-align: center;
   }
   .upper-left p {
     font-size: 2vw;
